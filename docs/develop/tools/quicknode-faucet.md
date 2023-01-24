@@ -1,5 +1,5 @@
 ---
-id: quicknode-multichain-faucet
+id: quicknode-faucet
 title: QuickNode Multi-chain Faucet
 sidebar_label: QuickNode Faucet
 description: Request MATIC Mumbai testnet tokens on QuickNode Multi-chain Faucet
