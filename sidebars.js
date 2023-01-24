@@ -557,7 +557,7 @@ module.exports = {
       },
       items: [
         "develop/tools/polygon-faucet",
-        "develop/tools/quicknode-multichain-faucet",
+        "develop/tools/quicknode-faucet",
         "develop/tools/alchemy-faucet",
         "develop/tools/polygon-gas-station"
       ],
